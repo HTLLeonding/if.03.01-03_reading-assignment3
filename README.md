@@ -1,4 +1,4 @@
-# IF.03.01-03 Basic Web Techniques -- Html and a first look into Css
+# IF.03.01-03 Basic Web Techniques -- Lists and Tables
 ## Content
 This reading assignment shall make you familiar with lists and tables. Go through the topics named in the document [ReadingAssignment.md](ReadingAssignment.md). Read the pages linked there and play around with the *Try it Yourself* buttons.
 
